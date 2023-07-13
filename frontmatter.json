@@ -48,5 +48,22 @@
   ],
   "frontMatter.framework.id": "next",
   "frontMatter.content.publicFolder": "public",
-  "frontMatter.preview.host": "http://localhost:3000"
+  "frontMatter.preview.host": "http://localhost:3000",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "content",
+      "path": "[[workspace]]/content"
+    }
+  ],
+  "frontMatter.taxonomy.tags": [],
+  "frontMatter.taxonomy.categories": [
+    "artificial-intelligence",
+    "assistance",
+    "drone",
+    "github",
+    "programming",
+    "robotics",
+    "workstation",
+    "youtube"
+  ]
 }
