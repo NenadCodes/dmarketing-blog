@@ -1,8 +1,8 @@
 ---
 banner:
   title: Welcome **!**
-  title_small: "to John Bravo's Blog"
-  content: Are Developer and recently started your own business Already made website to ensure presence wants to develop.
+  title_small: "to DMarketingBuddy Blog"
+  content: This is a place for digital marketers. I'll share as many resources as I can to help you become an expert in your field.
   image_enable: true
   image: /images/banner-author.png
   button:

@@ -8,13 +8,13 @@ form_action: "#"
 layout: "contact"
 addresses:
   - icon: FaUserAlt
-    content: +211234565523
-    link: tel:+211234565523
+    content: +381603555075
+    link: tel:+381603555075
   - icon: FaMapMarkerAlt
-    content: info@email.com
-    link: mailto:info@email.com
+    content: nenad.markovic1408@gmail.com
+    link: mailto:nenad.markovic1408@gmail.com
   - icon: FaLocation
-    content: 9567 Turner Trace Apt. BC C3G8A4
+    content: Niš, Serbia
 
 draft: false
 ---
