@@ -1,9 +1,9 @@
 ---
 title: "Let’s, Talk </br> About You"
-description: "meta description"
-phone: "+211234565523"
-mail: "info@email.com"
-location: "9567 Turner Trace Apt. BC C3G8A4"
+description: "Nenad Markovic, digital marketing buddy, DMarketingBuddy, SEO expert, SEO mentor, digital marketing expert, digital marketing mentor, SEM expert, SEM mentor"
+phone: "+381603555075"
+mail: "nenad.markovic1408@gmail.com"
+location: "Niš, Serbia"
 form_action: "#"
 layout: "contact"
 addresses:
